@@ -59,7 +59,7 @@ const ProductTable = props => {
     }
   
     return (
-        <table border= "3" style={{backgroundColor: "skyblue",width: "500px",textAlign: "center",marginLeft: "500px",marginTop: "20px"}}>
+        <table border= "1" style={{backgroundColor: "skyblue",width: "500px",textAlign: "center",marginLeft: "500px",marginTop: "20px"}}>
             
             <thead>
                 <tr>
